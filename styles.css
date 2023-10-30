@@ -1,0 +1,100 @@
+.header{
+    margin-top: 32px;
+   }
+   .header_logo{
+    margin-left: 215px;
+   }
+   .menu-list{
+     margin-top: -20px;
+     display: flex;
+     font-family: 'Roboto', sans-serif;
+     justify-content: center;
+     color: black;
+     cursor: pointer;
+     gap: 50px;
+     list-style: none;
+   }
+   .menu-item{
+     font-size: 14px;
+   }
+   .menu-item:hover{
+     color: blue;
+   }
+   .contacts{
+     display: flex;
+     justify-content: flex-end;
+     margin-top: -50px;
+     margin-right: 215px;
+     gap: 50px;
+     cursor: pointer;
+   }
+   .contacts-item:hover{
+     color: blue;
+   }
+   .section{
+     height: 600px;
+     background: #2F303A;
+   }
+   .container{
+     display: flex;
+     justify-content: center;
+   }
+   .main_word{
+     margin-top: 200px;
+     width: 696px;
+     font-family: 'Roboto', sans-serif;
+     font-size: 44px;
+     color: #FFF;
+   }
+   .button{
+     border-radius: 4px;
+     background: #2196F3;
+     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+     width: 216px;
+     height: 50px;
+     margin-left: 1160px;
+   }
+   .button_link{
+     font-family: 'Roboto', sans-serif;
+     font-size: 16px;
+     text-decoration: none;
+   }
+   .section2{
+     margin-top: 92px;
+     display: flex;
+     gap: 30px;
+   }
+   .section2-item{
+     font-family: 'Roboto', sans-serif;
+   }
+   .main-word{
+     display: flex;
+     justify-content: center;
+     font-family: 'Roboto', sans-serif;
+     margin-top: 118px;
+     font-size: 36px;
+     color: #212121;
+   }
+   
+   .section3{
+     display: flex;
+     justify-content: center;
+     gap: 50px;
+     margin-top: 50px;
+   }
+   .section3_word{
+     display: flex;
+     position: absolute;
+     top: 1300px;
+     gap:  220px;
+     color: white;
+   }
+   .footer{
+     display: flex;
+     background: #2F303A;
+     height: 252px;
+   }
+   .footer_container{
+     margin-left: 215px;
+     margin-top: 60px;
+   }
